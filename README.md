@@ -64,7 +64,9 @@ TXT file:
 ![Results printed to analysis/election_analysis.txt](./analysis/txt.PNG)
 
 The script that was written on the PyPoll_Challenge.py file can be used again to get the results for other elections. In order to do that, you will need a CSV file with the county and the candidate name for each vote. You can either name it as "election_results.csv" and save it to a folder called "Resources" or you will need to modify line number 9 by replacing election_results.csv with the new CSV file name and Resources with the new folder name.
+
 ![Line number 9: file_to_load = os.path.join("Resources", "election_results.csv")](./analysis/line9.PNG)
 
 This script saves the results to a text file called "election_analysis.txt" inside of a folder named "analysis". You can either maintain these names or modify line number 11 as appropriate.
+
 ![Line number 11: file_to_save = os.path.join("analysis", "election_analysis.txt")](./analysis/line11.PNG)
