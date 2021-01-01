@@ -3,12 +3,12 @@
 ## Overview of Election Audit
 A recent local congressional election is having its results audited. In order to do that, they need the following information:
 
-1. Total number of votes cast
-2. List of candidates and counties
-3. Total number of votes for each candidate and each county
-4. Percentage of votes for each candidate and each county
-5. The winner of the election based on popular vote
-6. The county with the highest turnout
+- Total number of votes cast
+- List of candidates and counties
+- Total number of votes for each candidate and each county
+- Percentage of votes for each candidate and each county
+- The winner of the election based on popular vote
+- The county with the highest turnout
 
 ## Election Audit Results
 The analysis of the election shows that:
