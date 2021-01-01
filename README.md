@@ -69,4 +69,4 @@ The script that was written on the PyPoll_Challenge.py file can be used again to
 
 This script saves the results to a text file called "election_results.txt" inside of a folder named "analysis". You can either maintain these names or modify line number 11 as appropriate.
 
-![Line number 11: file_to_save = os.path.join("analysis", "election_results.txt")](./analysis/line10.PNG)
+![Line number 11: file_to_save = os.path.join("analysis", "election_results.txt")](./analysis/line11.PNG)
